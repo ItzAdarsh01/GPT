@@ -89,7 +89,7 @@ function App() {
       
       {/* 1. Fixed Header */}
       <header className="p-4 border-b border-zinc-800 text-center shrink-0">
-        <h1 className="text-2xl font-black tracking-tighter">REACTGPT 2.0</h1>
+        <h1 className="text-2xl font-black tracking-tighter">REACTGPT 1.0</h1>
       </header>
 
       {/* 2. Scrollable Chat Body */}
