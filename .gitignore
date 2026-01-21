@@ -24,5 +24,5 @@ dist-ssr
 *.sw?
 
 # Secrets
-# src/constants.js
+src/constants.example.js
 
