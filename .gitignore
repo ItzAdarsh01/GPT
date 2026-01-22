@@ -25,4 +25,6 @@ dist-ssr
 
 # Secrets
 src/constants.example.js
-
+ 
+# env
+.env
