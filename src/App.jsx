@@ -41,7 +41,7 @@ function App() {
     };
 
     // VITE_GEMINI_API_KEY hi rehne de, bas .env mein Cyfuture wali key daal dein
-    const apiKey = import.meta.env.VITE_GEMINI_API_KEY; 
+    const apiKey = import.meta.env.VITE_AI_API_KEY; 
 
     try {
       let response = await fetch(URL, {
