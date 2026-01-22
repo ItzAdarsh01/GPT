@@ -29,7 +29,6 @@ function App() {
 
     // Cyfuture AI (OpenAI Compatible) Payload
     const payload = {
-      // Pura path use karein jo Postman mein green dikh raha hai
       model: "/workspace/models/Llama-4-Maverick-17B-128E-Instruct", 
       messages: [
         { role: "user", content: finalQuestion }
